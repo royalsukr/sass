@@ -1,0 +1,28 @@
+$reng: white;
+*{
+    font-family: "Montserrat", sans-serif;
+}
+
+body{
+    background-image: url(hero-shape-wave-2.png);
+    height: 1117px;
+    size: cover;
+    background :{
+        color:#252B42;
+        repeat: no-repeat;
+}
+}
+
+ul{
+ display: flex;
+ gap: 10px;
+color:$reng ;
+justify-content: center;
+}
+p{
+font-size:30px;
+color: $reng;
+font-weight: 700;
+margin-left:30px ;
+margin-top: 80px;
+}
